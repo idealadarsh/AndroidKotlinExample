@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">About Me</string>
+    <string name="name">Adarsh Kumar</string>
+    <string name="some_long_text">I am a freelance web and android app developer, you can always contact me in case you need a website, web app, or android apps. With 5+ years of experience, I can assure you that you\'ll get what you expect from me. Want to talk more or grab a coffee with me contact me.\n\nI am a freelance web and android app developer, you can always contact me in case you need a website, web app, or android apps. With 5+ years of experience, I can assure you that you\'ll get what you expect from me. Want to talk more or grab a coffee with me contact me.\n\nI am a freelance web and android app developer, you can always contact me in case you need a website, web app, or android apps. With 5+ years of experience, I can assure you that you\'ll get what you expect from me. Want to talk more or grab a coffee with me contact me.</string>
+    <string name="star_icon">star_icon</string>
+    <string name="your_name">Your Name</string>
+    <string name="done">Done</string>
+</resources>
